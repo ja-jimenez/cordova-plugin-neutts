@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-neutts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cordova Text-to-Speech Plugin",
   "cordova": {
     "id": "cordova-plugin-neutts",
